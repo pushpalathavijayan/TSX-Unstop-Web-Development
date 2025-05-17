@@ -1,0 +1,23 @@
+#red{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    backface-visibility: visible;
+    text-decoration-line: underline;
+    text-align: center;
+    font-size: xx-large;
+
+
+}
+#ll{
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+}
+#ggggg{
+    background-color: aqua;
+    text-align: center;
+    background-image: url(gg.jpg);
+    
+}
